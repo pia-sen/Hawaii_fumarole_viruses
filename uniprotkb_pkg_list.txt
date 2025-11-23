@@ -1,0 +1,107 @@
+VPM_BPHC1
+VPM_BPP2
+PKG20_BPPRD
+PKG22_BPPRD
+PKG9_BPPRD
+TERL_BPT4
+C_BPPHS
+FI_LAMBD
+PKG16_BPPH2
+PKG6_BPPRD
+TERL_BP234
+TERL_BPG20
+TERL_BPP21
+TERL_BPP22
+TERL_BPSPP
+TERL_BPT3
+TERL_BPT5
+TERL_BPT7
+TERL_LAMBD
+TERM_BPPH2
+TERM_BPPRD
+TERS_BPP22
+TERS_BPT4
+TERS_LAMBD
+VGC_BPAL3
+VGC_BPG4
+VGC_BPPHK
+VGC_BPS13
+CIRCN_BPMU
+G5P_BPF1
+G5P_BPFD
+G5P_BPM13
+KU_BPMCO
+KU_BPMOM
+REP_BPF1
+REP_BPFD
+REP_BPM13
+REPA_BPPHS
+P51721
+P25476
+P27387
+P27388
+P27381
+P17312
+P69172
+P03709
+P11014
+P27379
+A7XXB7
+A0A1L4BKS3
+P36693
+P26745
+P54308
+P10310
+Q6QGD2
+P03694
+P03708
+P03681
+P09009
+P04893
+P17311
+P03707
+P31279
+P03636
+Q38037
+P69173
+P08557
+P69543
+P69542
+P69544
+Q856K7
+Q853W0
+P69546
+P69545
+P69547
+P03631
+Probable terminase, endonuclease subunit 
+Terminase, endonuclease subunit 
+DNA circularization protein N 
+DNA packaging ATPase P9 
+DNA packaging protein 
+DNA terminal protein 
+DNA-Binding protein G5P 
+DNA-Binding protein G5P 
+Packaging protein P22 
+Primer terminal protein 
+Protein Ku 
+Protein Ku 
+Replication-associated protein A 
+Replication-associated protein G2P 
+Terminase small subunit 
+Terminase, large subunit 
+Terminase, large subunit 
+Terminase, large subunit 
+Terminase, large subunit 
+Terminase, large subunit 
+Terminase, large subunit 
+Terminase, large subunit 
+Terminase, large subunit 
+Terminase, large subunit 
+Terminase, small subunit 
+Terminase, small subunit 
+Packaging protein P20
+Protein C
+DNA-packaging protein FI
+Packaging efficiency factor P6
+C protein
